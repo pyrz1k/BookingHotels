@@ -4,5 +4,6 @@ Before starting the project, follow these steps:
 -unpack the archives;
 -put them in one folder;
 -move objects that start with "vid." to the folder .../public/images;
--in the node console.js write "npm install" (without quotes).
+-in the node console.js make the transition to the directory with the project;
+-and write "npm install" (without quotes).
 To start the project, register it in node.js console "npm run serve"(without quotes).
